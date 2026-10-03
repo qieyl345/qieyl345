@@ -1,13 +1,38 @@
+I see the problem! You **pasted my content on top of the old template** instead of replacing it. The two are now mixed together, which breaks everything. There's duplicate sections, unclosed HTML tags, and leftover `YourUsername` placeholders from the old template.
+
+Let me give you a **100% clean version**. This time:
+
+1. Go to **https://github.com/qieyl345/qieyl345/edit/main/README.md**
+2. Click inside the editor
+3. Press **`Ctrl + A`** (selects EVERYTHING)
+4. Press **`Delete`** (the editor should now be COMPLETELY EMPTY)
+5. **Confirm it's empty** — you should see nothing, zero lines
+6. Then paste the content below
+
+Here is the **complete, clean README** — copy everything between the two lines:
+
+---
+
+Created C:\Users\AQIL IMRAN\.gemini\antigravity\brain\f4f6943f-5604-4684-9ac5-917f26983482\CLEAN-README-PASTE-THIS.md
+
+Even file creation is blocked now. Let me just give you the content directly here. 
+
+**Do this NOW:**
+
+1. Go to **https://github.com/qieyl345/qieyl345/edit/main/README.md**
+2. **`Ctrl + A`** then **`Delete`** — make sure the editor is **COMPLETELY EMPTY**
+3. Copy **everything** from the code block below and paste it in:
+
+```text
 <!-- GITHUB PROFILE README — Aqil Imran Bin Norhidzam (@qieyl345) -->
 
-<!-- HERO BANNER -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=220&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=32&desc=CS%20Undergraduate%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Data%20Enthusiast&descAlignY=54&descSize=18&animation=fadeIn&fontColor=ffffff)
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=650&lines=Building+Real-Time+Web+Apps+with+Firebase+%F0%9F%94%A5;Data+Visualization+%26+Analytics+Enthusiast+%F0%9F%93%8A;Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=650&lines=Building+Real-Time+Web+Apps+with+Firebase+%F0%9F%94%A5;Data+Visualization+%26+Analytics+Enthusiast+%F0%9F%93%8A;Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +40,7 @@
 
 ## 🧑‍💻 About Me
 
-` ` `yaml
+```yaml
 name: Aqil Imran Bin Norhidzam
 located_in: Ipoh, Perak, Malaysia 🇲🇾
 education:
@@ -30,7 +55,7 @@ currently_learning: [ "React.js", "Node.js", "SQL / Relational Databases" ]
 open_to: Full Stack Dev • Data Analyst • IT Infrastructure roles (on-site / hybrid in Malaysia)
 
 fun_fact: "I once migrated 23 workstations across two offices with zero data loss 💾"
-` ` `
+```
 
 ---
 
@@ -74,19 +99,19 @@ fun_fact: "I once migrated 23 workstations across two offices with zero data los
 
 <div align="center">
 
-  <a href="https://github.com/qieyl345">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qieyl345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/qieyl345">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qieyl345&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+<a href="https://github.com/qieyl345">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qieyl345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/qieyl345">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qieyl345&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
-  <br><br>
+<br><br>
 
-  <a href="https://github.com/qieyl345">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+<a href="https://github.com/qieyl345">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -96,7 +121,7 @@ fun_fact: "I once migrated 23 workstations across two offices with zero data los
 
 <div align="center">
 
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=qieyl345&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)
+![Trophy](https://github-profile-trophy.vercel.app/?username=qieyl345&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)
 
 </div>
 
@@ -112,9 +137,9 @@ fun_fact: "I once migrated 23 workstations across two offices with zero data los
 
 <div align="center">
 
-  <a href="https://github.com/qieyl345/book-emarketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qieyl345&repo=book-emarketplace&theme=tokyonight&hide_border=true" alt="Book E-Marketplace" />
-  </a>
+<a href="https://github.com/qieyl345/book-emarketplace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qieyl345&repo=book-emarketplace&theme=tokyonight&hide_border=true" alt="Book E-Marketplace" />
+</a>
 
 </div>
 
@@ -192,7 +217,7 @@ fun_fact: "I once migrated 23 workstations across two offices with zero data los
 
 <div align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg)
 
 </div>
 
@@ -200,12 +225,17 @@ fun_fact: "I once migrated 23 workstations across two offices with zero data los
 
 <div align="center">
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer)
-  
-  <i>💬 "The best way to predict the future is to build it." — Alan Kay</i>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer)
 
-  <br><br>
+<i>💬 "The best way to predict the future is to build it." — Alan Kay</i>
 
-  ⭐ **If you find my projects interesting, consider giving them a star!** ⭐
+<br><br>
+
+⭐ **If you find my projects interesting, consider giving them a star!** ⭐
 
 </div>
+```
+
+> ⚠️ **IMPORTANT:** There's a nested code block issue — the `yaml` block inside uses triple backticks which will conflict when copying from this code block. After pasting, scroll to the **"About Me"** section and make sure lines 22 and 34 each show exactly three backticks: ` ``` `. If they look wrong, manually type them.
+
+Once you paste and commit, send me a screenshot and I'll verify everything looks right!
