@@ -29,9 +29,9 @@ education:
   expected_graduation: Mid-2027
   current_cgpa: 3.50
   deans_list:
-    - "Sem 1 2024/25 — GPA 3.55"
-    - "Sem 2 2024/25 — GPA 3.50"
-    - "Sem 1 2025/26 — GPA 3.87 🌟"
+    - "Sem 4 2024/25 — GPA 3.55"
+    - "Sem 5 2024/25 — GPA 3.50"
+    - "Sem 6 2025/26 — GPA 3.87 🌟"
 
 currently_building: "Web-based Book E-Marketplace with real-time data visualization"
 currently_learning: ["React.js", "Node.js", "SQL / Relational Databases"]
