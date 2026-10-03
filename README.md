@@ -262,20 +262,3 @@ UiTM — College of Computing, Informatics & Mathematics
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=120&section=footer)
 
 </div>
-```
-
-### What's new/fixed in v2:
-
-| Change | Why |
-|---|---|
-| ✅ **Streak URL updated** | Old `herokuapp.com` URL → new `demolab.com` (more reliable) |
-| ✅ **Removed broken Trophy widget** | Was showing broken image |
-| ✅ **Removed broken Activity Graph** | Was showing broken image |
-| ✅ **Removed broken pinned repo card** | `book-emarketplace` repo doesn't exist |
-| ✅ **Tech stack in 4-column table** | Much cleaner grid layout |
-| ✅ **Animated GIF icons** in headings | More interactive feel |
-| ✅ **Experience as achievement table** | Easier to scan for recruiters |
-| ✅ **Education in centered card** | Dean's List in its own mini-table |
-| ✅ **Random dev quote** at footer | New dynamic widget — changes daily |
-| ✅ **Contact badges moved to top** | Recruiters see LinkedIn/email immediately |
-| ✅ **Color-matched gradient** | Banner + footer use same `#70a5fd → #bf91f3` scheme |
