@@ -1,29 +1,3 @@
-I see the problem! You **pasted my content on top of the old template** instead of replacing it. The two are now mixed together, which breaks everything. There's duplicate sections, unclosed HTML tags, and leftover `YourUsername` placeholders from the old template.
-
-Let me give you a **100% clean version**. This time:
-
-1. Go to **https://github.com/qieyl345/qieyl345/edit/main/README.md**
-2. Click inside the editor
-3. Press **`Ctrl + A`** (selects EVERYTHING)
-4. Press **`Delete`** (the editor should now be COMPLETELY EMPTY)
-5. **Confirm it's empty** — you should see nothing, zero lines
-6. Then paste the content below
-
-Here is the **complete, clean README** — copy everything between the two lines:
-
----
-
-Created C:\Users\AQIL IMRAN\.gemini\antigravity\brain\f4f6943f-5604-4684-9ac5-917f26983482\CLEAN-README-PASTE-THIS.md
-
-Even file creation is blocked now. Let me just give you the content directly here. 
-
-**Do this NOW:**
-
-1. Go to **https://github.com/qieyl345/qieyl345/edit/main/README.md**
-2. **`Ctrl + A`** then **`Delete`** — make sure the editor is **COMPLETELY EMPTY**
-3. Copy **everything** from the code block below and paste it in:
-
-```text
 <!-- GITHUB PROFILE README — Aqil Imran Bin Norhidzam (@qieyl345) -->
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=220&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=32&desc=CS%20Undergraduate%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Data%20Enthusiast&descAlignY=54&descSize=18&animation=fadeIn&fontColor=ffffff)
