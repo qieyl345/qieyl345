@@ -106,6 +106,7 @@ fun_fact: "Migrated 23 workstations across two offices with zero data loss 💾"
 
 <div align="center">
 
+<!-- Row 1: Stats + Streak -->
 <a href="https://github.com/qieyl345">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qieyl345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=70a5fd&icon_color=bf91f3&title_color=70a5fd" />
 </a>
@@ -115,13 +116,22 @@ fun_fact: "Migrated 23 workstations across two offices with zero data loss 💾"
 
 <br>
 
-<a href="https://github.com/qieyl345">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&langs_count=8" />
-</a>
-
-</div>
+<!-- Row 2: Language breakdown cards -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qieyl345&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qieyl345&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qieyl345&theme=tokyonight&utcOffset=8" />
 
 <br>
+
+<!-- Row 3: Full-width contribution timeline -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qieyl345&theme=tokyonight" />
+
+<br>
+
+<!-- Row 4: Activity graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=bf91f3&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
 
 <!-- ═══════════════════ FEATURED PROJECT ═══════════════════ -->
 
