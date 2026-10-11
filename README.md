@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=qieyl345&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;&nbsp;
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#lets-connect)
 &nbsp;&nbsp;
@@ -34,9 +34,9 @@ education:
   expected_graduation: Mid-2027
   current_cgpa: 3.50
   achievements:
-    - "Dean's List Sem 4 2024/25 — GPA 3.55"
-    - "Dean's List Sem 5 2024/25 — GPA 3.50"
-    - "Dean's List Sem 6 2025/26 — GPA 3.87 ⭐"
+- "Dean's List Sem 4 2024/25 — GPA 3.55"
+- "Dean's List Sem 5 2024/25 — GPA 3.50"
+- "Dean's List Sem 6 2025/26 — GPA 3.87 ⭐"
 
 professional_focus: "Full Stack Development • Data Visualization • IT Infrastructure"
 currently_building: "Web-based Book E-Marketplace with real-time analytics"
