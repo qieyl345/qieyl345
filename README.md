@@ -2,13 +2,14 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Data%20Analyst)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&lines=Building+scalable+web+solutions;Real-time+data+visualization;IT+infrastructure+specialist)](https://github.com/qieyl345)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+web+solutions;Real-time+data+visualization;IT+infrastructure+specialist)](https://github.com/qieyl345)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://hits.seeyoufarm.com/api/count/icon?id=github-qieyl345&count_bg=%238A2BE2&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=PROFILE%20VIEWS&edge_flat=true)
+<!-- Fallback if you prefer the original: ![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS) -->
 &nbsp;&nbsp;
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#lets-connect)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#-lets-connect)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqil-imran-bin-norhidzam-05b010280/)
 &nbsp;&nbsp;
@@ -20,7 +21,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 ```yaml
 name: Aqil Imran Bin Norhidzam
@@ -34,9 +35,9 @@ education:
   expected_graduation: Mid-2027
   current_cgpa: 3.50
   achievements:
-- "Dean's List Sem 4 2024/25 — GPA 3.55"
-- "Dean's List Sem 5 2024/25 — GPA 3.50"
-- "Dean's List Sem 6 2025/26 — GPA 3.87 ⭐"
+    - "Dean's List Sem 4 2024/25 — GPA 3.55"
+    - "Dean's List Sem 5 2024/25 — GPA 3.50"
+    - "Dean's List Sem 6 2025/26 — GPA 3.87 ⭐"
 
 professional_focus: "Full Stack Development • Data Visualization • IT Infrastructure"
 currently_building: "Web-based Book E-Marketplace with real-time analytics"
@@ -233,6 +234,15 @@ Building expertise for full-stack and data analytics roles:
 ## 📊 Quick Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=qieyl345&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=qieyl345&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+
+<br/>
 
 - **👨‍🎓** 3.50 CGPA with Dean's List recognition (3 consecutive semesters)
 - **📦** 4+ public repositories showcasing diverse skills
