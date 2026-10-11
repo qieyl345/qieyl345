@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=230&section=header&text=Aqil%20Imran&fontSize=70&fontAlignY=30&desc=CS%20Undergraduate%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Enthusiast&descAlignY=53&descSize=19&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=230&section=header&text=Aqil%20Imran&fontSize=70&fontAlignY=30&desc=CS%20Undergraduate%20%E2%8[...]
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=%F0%9F%94%A5+Building+Real-Time+Web+Apps+with+Firebase;%F0%9F%93%8A+Data+Visualization+%26+Analytics+Enthusiast;%F0%9F%9A%80+Full+Stack+Developer+in+the+Making;%F0%9F%92%BB+Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&lines=Full+Stack+Developer;Data+Analyst;IT+Infrastructure+Enthusiast;Always+building+something+useful)](https://github.com/qieyl345)
 
 <br>
 
@@ -106,30 +106,22 @@ fun_fact: "Migrated 23 workstations across two offices with zero data loss 💾"
 
 <div align="center">
 
-<!-- Row 1: Stats + Streak -->
-<a href="https://github.com/qieyl345">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qieyl345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=70a5fd&icon_color=bf91f3&title_color=70a5fd" />
-</a>
-<a href="https://github.com/qieyl345">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=qieyl345&theme=tokyonight&hide_border=true&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
-</a>
+<p>
+  <a href="https://github.com/qieyl345">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/qieyl345?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Active-8A2BE2?style=for-the-badge" alt="Repositories" />
+  </a>
+  <a href="https://github.com/qieyl345?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Community-70A5FD?style=for-the-badge" alt="Followers" />
+  </a>
+</p>
 
-<br>
-
-<!-- Row 2: Language breakdown cards -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qieyl345&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qieyl345&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qieyl345&theme=tokyonight&utcOffset=8" />
-
-<br>
-
-<!-- Row 3: Full-width contribution timeline -->
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qieyl345&theme=tokyonight" />
-
-<br>
-
-<!-- Row 4: Activity graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=bf91f3&hide_border=true&custom_title=Contribution%20Activity" />
+<p>
+  <img src="https://img.shields.io/badge/Current%20Focus-Full%20Stack%20%7C%20Data%20Analytics-00C7B7?style=for-the-badge" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Location-Ipoh%2C%20Malaysia-FFB000?style=for-the-badge" alt="Location" />
+</p>
 
 </div>
 
@@ -249,13 +241,14 @@ UiTM — College of Computing, Informatics & Mathematics
 
 <br>
 
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
+<!-- ═══════════════════ CONTRIBUTION SNAPSHOT ═══════════════════ -->
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snapshot
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg)
+<img src="https://img.shields.io/badge/Contribution%20Activity-Active-8A2BE2?style=for-the-badge" alt="Contribution Activity" />
+<img src="https://img.shields.io/badge/Current%20Focus-Book%20E-Marketplace-2DDE98?style=for-the-badge" alt="Current Focus" />
 
 </div>
 
