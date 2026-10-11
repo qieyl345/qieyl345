@@ -109,7 +109,7 @@ fun_fact: "Successfully migrated 23 workstations across 2 office branches with z
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=bf91f3&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qieyl345&theme=tokyonight" />
 
 </div>
 
