@@ -1,25 +1,20 @@
-<h1 align="center">Aqil Imran</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/qieyl345">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&lines=Building+scalable+web+solutions;Real-time+data+visualization;IT+infrastructure+specialist" alt="Typing SVG" />
-  </a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Data%20Analyst)
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=qieyl345">
-    <img src="https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="#lets-connect">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white" alt="Open to opportunities" />
-  </a>
-  <a href="https://www.linkedin.com/in/aqil-imran-bin-norhidzam-05b010280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aqilimrannorhidzam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&lines=Building+scalable+web+solutions;Real-time+data+visualization;IT+infrastructure+specialist)](https://github.com/qieyl345)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;&nbsp;
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#lets-connect)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqil-imran-bin-norhidzam-05b010280/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqilimrannorhidzam@gmail.com)
+
+</div>
 
 <br>
 
