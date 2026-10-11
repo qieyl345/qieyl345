@@ -20,7 +20,9 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 ```yaml
 name: Aqil Imran Bin Norhidzam
