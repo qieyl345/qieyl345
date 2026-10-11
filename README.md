@@ -234,9 +234,9 @@ UiTM — College of Computing, Informatics & Mathematics
 
 | Semester | GPA |
 |:---:|:---:|
-| Sem 1 2024/25 | **3.55** |
-| Sem 2 2024/25 | **3.50** |
-| Sem 1 2025/26 | **3.87** ⭐ |
+| Sem 4 2024/25 | **3.55** |
+| Sem 5 2024/25 | **3.50** |
+| Sem 6 2025/26 | **3.87** ⭐ |
 
 <br>
 
