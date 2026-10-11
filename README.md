@@ -8,6 +8,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;&nbsp;
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#lets-connect)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqil-imran-bin-norhidzam-05b010280/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqilimrannorhidzam@gmail.com)
@@ -257,7 +259,12 @@ Building deep technical capabilities for modern full-stack engineering and data 
 
 </div>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<br>
+
+---
+
+<a id="lets-connect"></a>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
 
