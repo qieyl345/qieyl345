@@ -22,7 +22,7 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"> **About Me**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **About Me* width="500"*
 
 ```yaml
 name: Aqil Imran Bin Norhidzam
