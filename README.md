@@ -6,7 +6,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=qieyl345&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;&nbsp;
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#lets-connect)
 &nbsp;&nbsp;
