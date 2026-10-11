@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=230&section=header&text=Aqil%20Imran&fontSize=70&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Data%20Analyst)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&lines=Building+scalable+web+solutions;Data+visualization+enthusiast;IT+infrastructure+specialist;Always+learning%2C+always+building)](https://github.com/qieyl345)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&lines=Building+scalable+web+solutions;Real-time+data+visualization;IT+infrastructure+specialist)](https://github.com/qieyl345)
 
 <br>
 
