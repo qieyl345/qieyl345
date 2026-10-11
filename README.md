@@ -1,14 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Data%20Analyst)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20IT%20Infrastructure&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&lines=Building+scalable+web+solutions;Real-time+data+visualization;IT+infrastructure+specialist)](https://github.com/qieyl345)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=650&lines=Building+scalable+web+solutions;Real-time+data+visualization+%26+analytics;IT+infrastructure+%26+systems+specialist;Always+learning%2C+always+shipping)](https://github.com/qieyl345)
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;&nbsp;
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#lets-connect)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#-lets-connect)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqil-imran-bin-norhidzam-05b010280/)
 &nbsp;&nbsp;
@@ -20,9 +20,7 @@
 
 ---
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **About Me**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
 name: Aqil Imran Bin Norhidzam
@@ -36,9 +34,9 @@ education:
   expected_graduation: Mid-2027
   current_cgpa: 3.50
   achievements:
-- "Dean's List Sem 4 2024/25 — GPA 3.55"
-- "Dean's List Sem 5 2024/25 — GPA 3.50"
-- "Dean's List Sem 6 2025/26 — GPA 3.87 ⭐"
+    - "Dean's List Sem 4 2024/25 — GPA 3.55"
+    - "Dean's List Sem 5 2024/25 — GPA 3.50"
+    - "Dean's List Sem 6 2025/26 — GPA 3.87 ⭐"
 
 professional_focus: "Full Stack Development • Data Visualization • IT Infrastructure"
 currently_building: "Web-based Book E-Marketplace with real-time analytics"
@@ -52,7 +50,7 @@ fun_fact: "Successfully migrated 23 workstations across 2 office branches with z
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
@@ -82,41 +80,71 @@ fun_fact: "Successfully migrated 23 workstations across 2 office branches with z
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,firebase,python,git,github,vscode,windows&perline=6&theme=dark" />
+
 </div>
 
 <br>
 
 ---
 
-## 🚀 Featured Project
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-### 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
+<div align="center">
 
-> A production-ready **C2C e-commerce platform** for academic resource trading between UiTM students, featuring real-time database synchronization and interactive analytics dashboards.
+<a href="https://github.com/qieyl345">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qieyl345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=70a5fd&icon_color=bf91f3&title_color=70a5fd" />
+</a>
+<a href="https://github.com/qieyl345">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=qieyl345&theme=tokyonight&hide_border=true&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
+</a>
 
-**Project Highlights:**
+<br><br>
 
-| Aspect | Details |
-|--------|---------|
-| 🏗️ **Architecture** | MVC Pattern with 3 distinct user roles (Student, Staff, Admin) |
-| 🛠️ **Tech Stack** | HTML5 · CSS3 · JavaScript · Firebase Realtime DB · Firebase Auth |
-| 📊 **Dashboard** | 8 interactive Chart.js visualizations for sales analytics |
-| 💡 **Key Features** | Price negotiation · 7-day warranty · Real-time sync · Transaction tracking |
-| ✅ **Quality Metrics** | **100%** pass rate on 22 test cases · **95%** SUS score · Full documentation |
-| 🔗 **Repository** | [View on GitHub](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qieyl345&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qieyl345&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qieyl345&theme=tokyonight&utcOffset=8" />
 
-**What You'll Learn from This Project:**
-- Full-stack development best practices
-- Real-time database synchronization
-- Data visualization implementation
-- User authentication & authorization
-- Comprehensive testing methodology
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=bf91f3&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
 
 <br>
 
 ---
 
-## 💼 Professional Experience
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> Featured Project
+
+### 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
+
+> A production-ready **C2C e-commerce platform** for academic resource trading between UiTM students, featuring real-time database synchronization and interactive analytics dashboards.
+
+<br>
+
+| Aspect | Details |
+|---|---|
+| 🏗️ **Architecture** | MVC Pattern with 3 distinct user roles (Student, Staff, Admin) |
+| 🛠️ **Tech Stack** | HTML5 · CSS3 · JavaScript · Firebase Realtime DB · Firebase Auth |
+| 📊 **Dashboard** | 8 interactive Chart.js visualizations for sales and activity analytics |
+| 💡 **Key Features** | Real-time negotiation · 7-day buyer warranty · Instant DB sync · Order tracking |
+| ✅ **Quality Metrics** | **100%** pass rate on 22 test cases · **95%** SUS score · Full technical specs |
+| 🔗 **Repository** | [View on GitHub](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
+
+#### What You'll Learn from This Project:
+- ⚡ **Full-Stack Architecture**: Clean separation of concerns with client-side MVC and cloud database integration.
+- 🔄 **Real-Time Synchronization**: Event-driven listeners for concurrent multi-user cart and bidding updates.
+- 📈 **Data Visualization**: Dynamic Chart.js dashboards transforming raw transactional records into actionable trends.
+- 🛡️ **Security & Validation**: Role-based access control (RBAC) via Firebase Authentication and rules.
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="30"> Professional Experience
 
 ### 🏢 **Industrial Trainee — IT Unit (Hardware)**
 **Lembaga Air Perak (Perak Water Board)**  
@@ -131,31 +159,30 @@ fun_fact: "Successfully migrated 23 workstations across 2 office branches with z
 | 📧 **Mail Server Audit** | Audited **578 email accounts**, identified and documented **26 discrepancies** |
 | 🐛 **Web App Debugging** | Resolved critical WebSocket/STOMP authentication fault in production system |
 
-**Key Takeaway:** Proven ability to manage complex IT infrastructure projects while maintaining quality and documentation standards.
+> 💡 **Key Takeaway:** Proven ability to manage enterprise IT infrastructure while upholding strict data integrity and engineering documentation standards.
 
 <br>
 
 ---
 
-## 🎓 Education
+## <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> Education
 
 <div align="center">
 
 ### Bachelor of Computer Science (Hons)
-**Universiti Teknologi MARA (UiTM)** — College of Computing, Informatics & Mathematics
-
-📅 Expected Graduation: **Mid-2027** · 📈 CGPA: **3.50**
+**Universiti Teknologi MARA (UiTM)** — College of Computing, Informatics & Mathematics  
+📅 Expected Graduation: **Mid-2027** · 📈 Current CGPA: **3.50**
 
 #### 🏅 Dean's List Achievements
 
-| Semester | GPA | Status |
+| Semester | GPA | Recognition |
 |:---:|:---:|:---:|
-| Sem 4 2024/25 | **3.55** | ✅ Dean's List |
-| Sem 5 2024/25 | **3.50** | ✅ Dean's List |
-| Sem 6 2025/26 | **3.87** | ⭐ **Top Performer** |
+| Sem 4 2024/25 | **3.55** | 🎖️ Dean's List Award |
+| Sem 5 2024/25 | **3.50** | 🎖️ Dean's List Award |
+| Sem 6 2025/26 | **3.87** | ⭐ **Top Performer Award** |
 
 #### 📜 Prior Education
-Diploma in Computer Science · UiTM (2021–2024) · CGPA **3.13**
+**Diploma in Computer Science** · Universiti Teknologi MARA (UiTM) · 2021–2024 · CGPA: **3.13**
 
 </div>
 
@@ -163,11 +190,11 @@ Diploma in Computer Science · UiTM (2021–2024) · CGPA **3.13**
 
 ---
 
-## 📚 Currently Learning
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Currently Learning
 
 <div align="center">
 
-Building expertise for full-stack and data analytics roles:
+Building deep technical capabilities for modern full-stack engineering and data analytics:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -175,7 +202,9 @@ Building expertise for full-stack and data analytics roles:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Target:** Complete 3+ production-grade full-stack projects before graduation (Mid-2027) 🎯
+<br>
+
+🎯 **Target Milestone:** Complete 3+ production-grade full-stack web applications before graduation (Mid-2027)
 
 </div>
 
@@ -183,21 +212,21 @@ Building expertise for full-stack and data analytics roles:
 
 ---
 
-## 🎯 2027 Roadmap
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> 2027 Roadmap
 
 <div align="center">
 
-### Personal Growth Goals
+### 🗺️ Personal Growth Goals
 
-- [ ] **Master React & Next.js** — Build 2 full-stack apps with modern best practices
-- [ ] **Database Expertise** — Design and optimize relational databases for production apps
-- [ ] **Full-Stack Ready** — Complete end-to-end deployment pipelines (front, back, database, deployment)
-- [ ] **Open Source** — Contribute meaningfully to 2+ open-source projects
-- [ ] **Cloud Deployment** — Deploy apps on AWS/Azure with CI/CD automation
-- [ ] **Technical Writing** — Publish 3+ technical blog posts on dev.to or Medium
-- [ ] **Professional Certification** — Earn AWS Solutions Architect or similar certification
+- [ ] **Master React & Next.js** — Build 2 production full-stack apps with modern SSR & API architectures
+- [ ] **Database Engineering** — Design, index, and optimize relational schemas (MySQL & PostgreSQL)
+- [ ] **End-to-End DevOps** — Build CI/CD deployment pipelines with automated testing and cloud hosting
+- [ ] **Open Source Contributor** — Actively contribute to 2+ open-source developer tools or web packages
+- [ ] **Cloud Deployment** — Deploy containerized apps on AWS/Azure with Docker and monitoring
+- [ ] **Technical Writing** — Publish 3+ technical case studies documenting engineering breakthroughs
+- [ ] **Professional Certification** — Complete AWS Certified Cloud Practitioner / Solutions Architect
 
-**Timeline:** Achieve all goals by **Mid-2027 graduation** ✨
+**Timeline:** Systematically achieve all milestones before **Mid-2027 graduation** ✨
 
 </div>
 
@@ -205,43 +234,57 @@ Building expertise for full-stack and data analytics roles:
 
 ---
 
-## 📫 Let's Connect
+## <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="30"> Quick Stats
 
 <div align="center">
 
-### Open to Opportunities
+- 🎓 **3.50 CGPA** with Dean's List honors for 3 consecutive semesters (Peak: **3.87 GPA**)
+- 📦 **4+ Public Repositories** showcasing full-stack development, algorithms, and systems engineering
+- 🏆 **100% QA Pass Rate** on final year project across 22 comprehensive test suites
+- ⚡ **Real-World Infrastructure Experience**: Migrated 23 enterprise workstations with zero data loss
+- 🛠️ **Production Diagnostics**: Handled enterprise RPC, SMB1, GPO, and WebSocket network troubleshooting
+- 🇲🇾 **Available for Opportunities**: Open to on-site and hybrid roles across Malaysia
+
+</div>
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg)
+
+</div>
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Let's Connect
+
+<div align="center">
+
+### 💼 Career & Collaboration Availability
 
 ![Available](https://img.shields.io/badge/Available%20For-Full%20Stack%20%7C%20Data%20Analytics%20%7C%20IT%20Infrastructure-00C7B7?style=for-the-badge)
 ![Remote](https://img.shields.io/badge/Work%20Type-On%2DSite%20%7C%20Hybrid%20in%20MY-70A5FD?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based%20in-Ipoh%2C%20Perak%2C%20Malaysia-BF91F3?style=for-the-badge)
 
-### Contact Me
+<br><br>
 
-| Platform | Link |
+### 📬 Get In Touch
+
+| Channel | Details / Link |
 |:---:|---|
-| 💼 LinkedIn | [Aqil Imran](https://www.linkedin.com/in/aqil-imran-bin-norhidzam-05b010280/) |
-| 📧 Email | [aqilimrannorhidzam@gmail.com](mailto:aqilimrannorhidzam@gmail.com) |
-| 🐙 GitHub | [@qieyl345](https://github.com/qieyl345) |
-| 💬 Discord | Available upon request |
+| 💼 **LinkedIn** | [linkedin.com/in/aqil-imran-bin-norhidzam](https://www.linkedin.com/in/aqil-imran-bin-norhidzam-05b010280/) |
+| 📧 **Email** | [aqilimrannorhidzam@gmail.com](mailto:aqilimrannorhidzam@gmail.com) |
+| 🐙 **GitHub** | [@qieyl345](https://github.com/qieyl345) |
+| 💬 **Discord** | Available upon request |
 
-**Let me know if you'd like to collaborate, discuss opportunities, or just chat about tech!** 🚀
-
-</div>
-
-<br>
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-
-- **👨‍🎓** 3.50 CGPA with Dean's List recognition (3 consecutive semesters)
-- **📦** 4+ public repositories showcasing diverse skills
-- **🏆** 100% quality assurance on FYP with comprehensive test coverage
-- **🌱** Actively learning modern full-stack technologies
-- **💻** Real-world IT infrastructure management experience
-- **📍** Available for full-time roles in Malaysia (on-site/hybrid)
+*Feel free to reach out for software engineering opportunities, tech collaborations, or data analytics projects!* 🚀
 
 </div>
 
