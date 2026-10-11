@@ -2,11 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20IT%20Infrastructure&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=650&lines=Building+scalable+web+solutions;Real-time+data+visualization+%26+analytics;IT+infrastructure+%26+systems+specialist;Always+learning%2C+always+shipping)](https://github.com/qieyl345)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+scalable+web+solutions;Real-time+data+visualization+%26+analytics;IT+infrastructure+%26+systems+specialist;Always+learning%2C+always+shipping)](https://github.com/qieyl345)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=qieyl345&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=qieyl345&label=PROFILE%20VIEWS&labelColor=%231a1b27&countColor=%2370a5fd&style=for-the-badge)
 &nbsp;&nbsp;
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#lets-connect)
 &nbsp;&nbsp;
