@@ -2,6 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=35&desc=Computer%20Science%20%7C%20Full%20Stack%20%7C%20IT%20Infrastructure%20%7C%20AppSec&descAlignY=60&descSize=18)
 
+<div align="center">
+
+[![I leave a star](https://img.shields.io/badge/Click-Leave_a_Star-yellow?style=for-the-badge&logo=github&logoColor=black)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
+
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Building+scalable+web+solutions;Real-time+data+visualization+%26+analytics;IT+infrastructure+%26+enterprise+operations;Application+security+%26+code+auditing;Always+learning%2C+always+shipping)](https://github.com/qieyl345)
 
 <br>
@@ -47,7 +53,36 @@ professional_narrative:
 
 currently_building: "Web-based Book E-Marketplace with real-time analytics dashboards"
 open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / Hybrid in MY)"
+
+currently_learning:
+  - "React 18.x patterns & effects"
+  - "AWS cloud architecture & deployment"
+  - "Docker containerization"
 ```
+
+<div align="center">
+
+[![Read the Code](https://img.shields.io/badge/Read_The_Code-Make_a_Pull_Request-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
+
+</div>
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/XgNI04eucFwQi0bgpu/giphy.gif" width="30"> What I'm Working On
+
+<div align="center">
+
+<div style="display:flex; gap:10px; justify-content:center; justify-items:center;">
+
+[![book-e-marketplace](https://img.shields.io/badge/Book_E-Marketplace-F3B929?style=for-the-badge&logo=book&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm)
+[![ongoing-exploration](https://img.shields.io/badge/Exploring-AWS_Cloud-A340F4?style=for-the-badge&logo=amazon-aws&logoColor=white)](#roadmap-2027)
+[![security-reading](https://img.shields.io/badge/Reading-OWASP_Top_10/2021-000000?style=for-the-badge&logo=security&logoColor=white)](#security-research)
+
+</div>
+
+</div>
 
 <br>
 
@@ -82,31 +117,62 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 ![Bandit](https://img.shields.io/badge/Bandit-SAST-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-AppSec_Labs-red?style=flat-square&logo=tryhackme&logoColor=white)
 
-### 🖥️ Systems, Networks & Infrastructure
-![Windows](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![SMB/RPC](https://img.shields.io/badge/SMB%2FRPC-333333?style=flat-square&logo=windowsterminal&logoColor=white)
-![Group Policy](https://img.shields.io/badge/Active_Directory%2FGPO-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Network](https://img.shields.io/badge/Network_Diagnostics-212121?style=flat-square&logo=wireshark&logoColor=white)
-![PA Systems](https://img.shields.io/badge/PA_Audio_Systems-3E2723?style=flat-square&logo=soundcharts&logoColor=white)
-
-### 🧰 Developer Tools & CI/CD
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### 🌐 Core Languages & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### 🎓 Additional Skills
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### 🛡️ Security Tools
+![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-1B1E2B?style=flat-square&logo=semgrep&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-1F2428?style=flat-square&logo=github&logoColor=white)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-FF5722?style=flat-square&logo=securityscorecard&logoColor=white)
+![Bandit](https://img.shields.io/badge/Bandit-SAST-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🖥️ Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🧰 Development
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,firebase,python,cpp,git,github,vscode,windows,linux&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,firebase,python,cpp,git,github,vscode,windows,linux,docker,aws&perline=7&theme=dark" />
 
 </div>
 
 <br>
 
----
+## <img src="https://media.giphy.com/media/Z6QUCFGNU1fNxqR5a0/giphy.gif" width="30"> GitHub Profile Trophy
 
-## <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="30"> Security Research & Auditing Workflows
+<div align="center">
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=qieyl345&theme=tokyonight&column=-1&margin_h=10&row=1.no_margin=true&score_verbose=true)
+
+</div>
+
+<div align="center">
+
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&theme=tokyonight&hide_border=true&layout=compact&title_color=70a5fd&text_color=bf91f3&langs_count=8&hide_title=true" alt="Top Languages" width="600px" height="auto" />
+
+</div>
+
+---\n\n## <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="30"> Security Research & Auditing Workflows
 
 <div align="center">
 
@@ -142,7 +208,18 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 
 <br><br>
 
+<div align="center">
+
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/qieyl345?qieyl345&restrict_search_access=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" width="98%" />
+</a>
+
+<br><br>
+
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qieyl345&theme=tokyonight" />
+
+</div>
 
 </div>
 
@@ -166,6 +243,7 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 | 💡 **Key Features** | Real-time price negotiation · 7-day buyer warranty · Instant multi-client sync |
 | ✅ **Quality Metrics** | **100%** pass rate across 22 comprehensive test suites · **95%** SUS score |
 | 🔗 **Repository** | [View on GitHub](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
+| 👁️ **Live Status** | [![Demo Status](https://img.shields.io/badge/Demo-N/A-dark?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
 
 <br>
 
@@ -295,11 +373,20 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> Contribution Snake
+## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> Recent Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg)
+<!-- Last Commit Activity -->
+<a href="https://github.com/qieyl345?qieyl345&restrict_search_access=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=Recent%20Activity" alt="Recent Activity" />
+</a>
+
+<br><br>
+
+**Latest Contributions:**
+
+[![Query My Repos](https://img.shields.io/badge/Query_Repositories-Search_GitHub-lightgrey?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
 
 </div>
 
@@ -329,6 +416,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 | 📧 **Email** | [aqilimrannorhidzam@gmail.com](mailto:aqilimrannorhidzam@gmail.com) | Direct inquiries & technical collaborations |
 | 🐙 **GitHub** | [@qieyl345](https://github.com/qieyl345) | Public code repositories & project contributions |
 | 💬 **Discord** | Available upon request | Casual developer chats & project brainstorming |
+| 📅 **Calendly** | [Book a Meeting](https://calendly.com) | Interview scheduling & career discussions |
 
 *Feel free to reach out for software engineering roles, enterprise IT challenges, or application security collaborations!* 🚀
 
