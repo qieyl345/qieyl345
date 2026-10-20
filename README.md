@@ -2,6 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Aqil%20Imran&fontSize=65&fontAlignY=35&desc=Computer%20Science%20%7C%20Full%20Stack%20%7C%20IT%20Infrastructure%20%7C%20AppSec&descAlignY=60&descSize=18)
 
+<div align="center">
+
+[![I leave a star](https://img.shields.io/badge/Click-Leave_a_Star-yellow?style=for-the-badge&logo=github&logoColor=black)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
+
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Building+scalable+web+solutions;Real-time+data+visualization+%26+analytics;IT+infrastructure+%26+enterprise+operations;Application+security+%26+code+auditing;Always+learning%2C+always+shipping)](https://github.com/qieyl345)
 
 <br>
@@ -47,7 +53,36 @@ professional_narrative:
 
 currently_building: "Web-based Book E-Marketplace with real-time analytics dashboards"
 open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / Hybrid in MY)"
+
+currently_learning:
+  - "React 18.x patterns & effects"
+  - "AWS cloud architecture & deployment"
+  - "Docker containerization"
 ```
+
+<div align="center">
+
+[![Read the Code](https://img.shields.io/badge/Read_The_Code-Make_a_Pull_Request-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
+
+</div>
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/XgNI04eucFwQi0bgpu/giphy.gif" width="30"> What I'm Working On
+
+<div align="center">
+
+<div style="display:flex; gap:10px; justify-content:center; justify-items:center;">
+
+[![book-e-marketplace](https://img.shields.io/badge/Book_E-Marketplace-F3B929?style=for-the-badge&logo=book&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm)
+[![ongoing-exploration](https://img.shields.io/badge/Exploring-AWS_Cloud-A340F4?style=for-the-badge&logo=amazon-aws&logoColor=white)](#roadmap-2027)
+[![security-reading](https://img.shields.io/badge/Reading-OWASP_Top_10/2021-000000?style=for-the-badge&logo=security&logoColor=white)](#security-research-workflows)
+
+</div>
+
+</div>
 
 <br>
 
@@ -58,6 +93,7 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 <div align="center">
 
 ### 🌐 Core Languages & Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -68,6 +104,7 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### ⚙️ Backend, Databases & Cloud
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -75,34 +112,54 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 ![ODBC](https://img.shields.io/badge/ODBC-003B57?style=flat-square&logo=databricks&logoColor=white)
 
 ### 🛡️ Application Security & Auditing Tools
+
 ![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B1E2B?style=flat-square&logo=semgrep&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-1F2428?style=flat-square&logo=github&logoColor=white)
 ![TruffleHog](https://img.shields.io/badge/TruffleHog-FF5722?style=flat-square&logo=securityscorecard&logoColor=white)
 ![Bandit](https://img.shields.io/badge/Bandit-SAST-3776AB?style=flat-square&logo=python&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-AppSec_Labs-red?style=flat-square&logo=tryhackme&logoColor=white)
 
-### 🖥️ Systems, Networks & Infrastructure
-![Windows](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![SMB/RPC](https://img.shields.io/badge/SMB%2FRPC-333333?style=flat-square&logo=windowsterminal&logoColor=white)
-![Group Policy](https://img.shields.io/badge/Active_Directory%2FGPO-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Network](https://img.shields.io/badge/Network_Diagnostics-212121?style=flat-square&logo=wireshark&logoColor=white)
-![PA Systems](https://img.shields.io/badge/PA_Audio_Systems-3E2723?style=flat-square&logo=soundcharts&logoColor=white)
+### 🎓 Additional Skills
 
-### 🧰 Developer Tools & CI/CD
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### 🖥️ Infrastructure
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🧰 Development
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,firebase,python,cpp,git,github,vscode,windows,linux&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,firebase,python,cpp,git,github,vscode,windows,linux,docker,aws&perline=7&theme=dark" />
 
 </div>
 
 <br>
+
+## <img src="https://media.giphy.com/media/Z6QUCFGNU1fNxqR5a0/giphy.gif" width="30"> GitHub Profile Trophy
+
+<div align="center">
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=qieyl345&theme=tokyonight&column=-1&margin_h=10&row=1&score_verbose=true)
+
+</div>
+
+<div align="center">
+
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&theme=tokyonight&hide_border=true&layout=compact&title_color=70a5fd&text_color=bf91f3&langs_count=8&hide_title=true" alt="Top Languages" width="600px" height="auto" />
+
+</div>
 
 ---
 
@@ -111,7 +168,7 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 <div align="center">
 
 | Security Domain | Methodologies & Tooling | Focus & Outcomes |
-|---|---|---|
+| --- | --- | --- |
 | 🔍 **Static Analysis (SAST)** | **Semgrep** · **CodeQL** · **Bandit** | Automated taint analysis, syntax-aware pattern matching, and CWE flaw detection |
 | 🔑 **Secret Detection** | **TruffleHog** · Git Pre-commit Hooks | High-entropy string scanning and secret exposure prevention across codebases |
 | 🌐 **Web & API Security** | **OWASP Top 10** · ZAP Auditing | Input validation, Broken Access Control (BAC), and SQLi/XSS mitigation |
@@ -142,7 +199,18 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 
 <br><br>
 
+<div align="center">
+
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/qieyl345?qieyl345&restrict_search_access=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" width="98%" />
+</a>
+
+<br><br>
+
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qieyl345&theme=tokyonight" />
+
+</div>
 
 </div>
 
@@ -159,13 +227,14 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 <br>
 
 | Aspect | Engineering Specifications |
-|---|---|
+| --- | --- |
 | 🏗️ **Architecture** | Client-side MVC pattern with 3 distinct RBAC roles (Student, Staff, Admin) |
 | 🛠️ **Tech Stack** | HTML5 · CSS3 · Vanilla JavaScript · Firebase Realtime DB · Firebase Auth |
 | 📊 **Analytics Dashboard** | 8 interactive Chart.js visualizations for transaction trends and user metrics |
 | 💡 **Key Features** | Real-time price negotiation · 7-day buyer warranty · Instant multi-client sync |
 | ✅ **Quality Metrics** | **100%** pass rate across 22 comprehensive test suites · **95%** SUS score |
 | 🔗 **Repository** | [View on GitHub](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
+| 👁️ **Live Status** | [![Demo Status](https://img.shields.io/badge/Demo-N/A-dark?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
 
 <br>
 
@@ -176,7 +245,7 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 <div align="center">
 
 | Technique | Mathematical & Algorithmic Implementation | Practical Application |
-|---|---|---|
+| --- | --- | --- |
 | 🎚️ **Contrast Enhancement** | Histogram equalization & piece-wise linear transformation | Improving dynamic range and feature visibility |
 | 📐 **Edge Detection** | 1st & 2nd spatial derivatives (Sobel, Prewitt, Laplacian operators) | Boundary identification & step edge profiles |
 | 🔍 **Spatial Filtering** | 2D convolution kernels with Gaussian smoothing | Noise suppression and high-frequency edge isolation |
@@ -190,11 +259,12 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 ## <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="30"> Professional Experience
 
 ### 🏢 **Industrial Trainee — IT Unit (Hardware & Infrastructure)**
+
 **Lembaga Air Perak (Perak Water Board)**  
 📅 March 2026 – July 2026 · 📍 Ipoh, Malaysia · ⏱️ 14 weeks
 
 | Operational Domain | Execution & Real-World Impact |
-|---|---|
+| --- | --- |
 | 🖥️ **Workstation Deployment** | Successfully migrated **23 enterprise machines** across 2 branch offices with **zero data loss** |
 | 🔧 **Network & Protocol Diagnostics** | Diagnosed and remediated RPC, SMB1, and PrintNightmare faults across Windows 7/10/11 |
 | 📢 **PA & Audio System Maintenance** | Managed public address (PA) system audio hardware and conference room infrastructure |
@@ -214,18 +284,20 @@ open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / H
 <div align="center">
 
 ### Bachelor of Computer Science (Hons)
+
 **Universiti Teknologi MARA (UiTM)** — College of Computing, Informatics & Mathematics  
 📅 Expected Graduation: **Mid-2027** · 📈 Current CGPA: **3.50**
 
 #### 🏅 Dean's List Recognitions
 
 | Academic Term | GPA | Honor Level |
-|:---:|:---:|:---:|
+| :---: | :---: | :---: |
 | Sem 4 2024/25 | **3.55** | 🎖️ Dean's List Award |
 | Sem 5 2024/25 | **3.50** | 🎖️ Dean's List Award |
 | Sem 6 2025/26 | **3.87** | ⭐ **Top Performer Award** |
 
 #### 📜 Prior Academic Qualification
+
 **Diploma in Computer Science** · Universiti Teknologi MARA (UiTM) · 2021–2024 · CGPA: **3.13**
 
 </div>
@@ -295,11 +367,20 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> Contribution Snake
+## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> Recent Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg)
+<!-- Last Commit Activity -->
+<a href="https://github.com/qieyl345?qieyl345&restrict_search_access=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=Recent%20Activity" alt="Recent Activity" />
+</a>
+
+<br><br>
+
+**Latest Contributions:**
+
+[![Query My Repos](https://img.shields.io/badge/Query_Repositories-Search_GitHub-lightgrey?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
 
 </div>
 
@@ -308,6 +389,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 ---
 
 <a id="lets-connect"></a>
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
@@ -323,12 +405,13 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 ### 📬 Direct Communication Channels
 
 | Channel | Link / Handle | Primary Scope |
-|:---:|---|---|
+| :---: | --- | --- |
 | 💼 **LinkedIn** | [linkedin.com/in/aqil-imran-bin-norhidzam](https://www.linkedin.com/in/aqil-imran-bin-norhidzam-05b010280/) | Professional networking & career opportunities |
 | 🛡️ **TryHackMe** | [tryhackme.com](https://tryhackme.com) | Hands-on application security labs & writeups |
 | 📧 **Email** | [aqilimrannorhidzam@gmail.com](mailto:aqilimrannorhidzam@gmail.com) | Direct inquiries & technical collaborations |
 | 🐙 **GitHub** | [@qieyl345](https://github.com/qieyl345) | Public code repositories & project contributions |
 | 💬 **Discord** | Available upon request | Casual developer chats & project brainstorming |
+| 📅 **Calendly** | [Book a Meeting](https://calendly.com) | Interview scheduling & career discussions |
 
 *Feel free to reach out for software engineering roles, enterprise IT challenges, or application security collaborations!* 🚀
 
