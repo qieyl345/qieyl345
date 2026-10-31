@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![I leave a star](https://img.shields.io/badge/Click-Leave_a_Star-yellow?style=for-the-badge&logo=github&logoColor=black)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
+[![I leave a star](https://img.shields.io/badge/Click-Leave_a_Star-yellow?style=for-the-badge&logo=github&logoColor=black)](https://github.com/qieyl345/qieyl345)
 
 </div>
 
@@ -62,7 +62,7 @@ currently_learning:
 
 <div align="center">
 
-[![Read the Code](https://img.shields.io/badge/Read_The_Code-Make_a_Pull_Request-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
+[![Read the Code](https://img.shields.io/badge/Read_The_Code-Make_a_Pull_Request-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qieyl345?tab=repositories)
 
 </div>
 
@@ -74,13 +74,9 @@ currently_learning:
 
 <div align="center">
 
-<div style="display:flex; gap:10px; justify-content:center; justify-items:center;">
-
-[![book-e-marketplace](https://img.shields.io/badge/Book_E-Marketplace-F3B929?style=for-the-badge&logo=book&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm)
+[![book-e-marketplace](https://img.shields.io/badge/Book_E-Marketplace-F3B929?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm)
 [![ongoing-exploration](https://img.shields.io/badge/Exploring-AWS_Cloud-A340F4?style=for-the-badge&logo=amazon-aws&logoColor=white)](#roadmap-2027)
-[![security-reading](https://img.shields.io/badge/Reading-OWASP_Top_10/2021-000000?style=for-the-badge&logo=security&logoColor=white)](#security-research-workflows)
-
-</div>
+[![security-reading](https://img.shields.io/badge/Reading-OWASP_Top_10/2021-000000?style=for-the-badge&logo=owasp&logoColor=white)](#security-research-workflows)
 
 </div>
 
@@ -163,6 +159,8 @@ currently_learning:
 
 ---
 
+<a id="security-research-workflows"></a>
+
 ## <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="30"> Security Research & Auditing Workflows
 
 <div align="center">
@@ -209,6 +207,11 @@ currently_learning:
 <br><br>
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qieyl345&theme=tokyonight" />
+
+<br><br>
+
+<!-- GitHub Metrics (auto-generated daily by metrics.yml workflow) -->
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="98%" />
 
 </div>
 
@@ -328,6 +331,8 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 ---
 
+<a id="roadmap-2027"></a>
+
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> 2027 Engineering Roadmap
 
 <div align="center">
@@ -371,10 +376,12 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 <div align="center">
 
-<!-- Last Commit Activity -->
-<a href="https://github.com/qieyl345?qieyl345&restrict_search_access=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=Recent%20Activity" alt="Recent Activity" />
-</a>
+<!-- Snake Contribution Animation (auto-generated daily by snake.yml workflow) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake.svg" width="98%" />
+</picture>
 
 <br><br>
 
@@ -411,7 +418,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 | 📧 **Email** | [aqilimrannorhidzam@gmail.com](mailto:aqilimrannorhidzam@gmail.com) | Direct inquiries & technical collaborations |
 | 🐙 **GitHub** | [@qieyl345](https://github.com/qieyl345) | Public code repositories & project contributions |
 | 💬 **Discord** | Available upon request | Casual developer chats & project brainstorming |
-| 📅 **Calendly** | [Book a Meeting](https://calendly.com) | Interview scheduling & career discussions |
+| 📅 **Calendly** | *Coming soon — [set up here](https://calendly.com/signup)* | Interview scheduling & career discussions |
 
 *Feel free to reach out for software engineering roles, enterprise IT challenges, or application security collaborations!* 🚀
 
