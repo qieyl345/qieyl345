@@ -1,0 +1,6 @@
+# Generated files from GitHub Actions workflows
+dist/
+
+# Visualizations (auto-generated)
+*.svg
+!README.md
