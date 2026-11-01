@@ -146,14 +146,14 @@ currently_learning:
 
 <div align="center">
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=qieyl345&theme=tokyonight&column=2&margin_h=10&row=1&score_verbose=true)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=qieyl345&theme=tokyonight&column=-1&margin_h=10&row=1&score_verbose=true)
 
 </div>
 
 <div align="center">
 
 <!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&theme=tokyonight&hide_border=true&layout=compact&title_color=%2370a5fd&text_color=%23bf91f3&langs_count=8&hide_title=true" alt="Top Languages" width="600px" height="auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&theme=tokyonight&hide_border=true&layout=compact&title_color=70a5fd&text_color=bf91f3&langs_count=8&hide_title=true" alt="Top Languages" width="600px" height="auto" />
 
 </div>
 
@@ -201,7 +201,7 @@ currently_learning:
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/qieyl345?qieyl345&restrict_search_access=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=%231a1b27&color=%2370a5fd&line=%23bf91f3&point=%2370a5fd&area=true&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" width="98%" />
 </a>
 
 <br><br>
@@ -380,7 +380,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake-white.svg" />
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/qieyl345/qieyl345/main/snake.svg" width="98%" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake.svg" width="98%" />
 </picture>
 
 <br><br>
