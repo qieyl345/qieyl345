@@ -28,7 +28,26 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## Contents
+
+- [About Me](#about-me)
+- [What I'm Working On](#what-im-working-on)
+- [Featured Projects & Research](#featured-projects--research)
+- [Technology Arsenal](#categorized-technology-arsenal)
+- [Professional Experience](#professional-experience)
+- [Education & Academic Honors](#education--academic-honors)
+- [Security Research & Auditing Workflows](#security-research-workflows)
+- [Currently Learning](#currently-learning)
+- [2027 Engineering Roadmap](#roadmap-2027)
+- [Quick Stats](#quick-stats)
+- [GitHub Profile Trophy](#github-profile-trophy)
+- [Dynamic Metrics & Analytics](#dynamic-metrics--analytics)
+- [Recent Activity](#recent-activity)
+- [Let's Connect](#lets-connect)
+
+---
+
+## About Me
 
 ```yaml
 name: Aqil Imran Bin Norhidzam
@@ -70,7 +89,7 @@ currently_learning:
 
 ---
 
-## <img src="https://media.giphy.com/media/XgNI04eucFwQi0bgpu/giphy.gif" width="30"> What I'm Working On
+## What I'm Working On
 
 <div align="center">
 
@@ -84,7 +103,95 @@ currently_learning:
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Categorized Technology Arsenal
+## Featured Projects & Research
+
+### 1. 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
+
+> A production-ready **C2C e-commerce platform** for academic resource trading between UiTM students, featuring real-time database synchronization and interactive analytics dashboards.
+
+<br>
+
+| Aspect | Engineering Specifications |
+| --- | --- |
+| 🏗️ **Architecture** | Client-side MVC pattern with 3 distinct RBAC roles (Student, Staff, Admin) |
+| 🛠️ **Tech Stack** | HTML5 · CSS3 · Vanilla JavaScript · Firebase Realtime DB · Firebase Auth |
+| 📊 **Analytics Dashboard** | 8 interactive Chart.js visualizations for transaction trends and user metrics |
+| 💡 **Key Features** | Real-time price negotiation · 7-day buyer warranty · Instant multi-client sync |
+| ✅ **Quality Metrics** | **100%** pass rate across 22 comprehensive test suites · **95%** SUS score |
+| 🔗 **Repository** | [View on GitHub](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
+| 👁️ **Live Status** | [![Demo Status](https://img.shields.io/badge/Demo-N/A-dark?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
+
+<br>
+
+### 2. 🖼️ **Digital Image Processing & Mathematical Computing**
+
+> Computational algorithms exploring **spatial filtering, contrast manipulation**, and **derivative edge detection** across digital matrices.
+
+<div align="center">
+
+| Technique | Mathematical & Algorithmic Implementation | Practical Application |
+| --- | --- | --- |
+| 🎚️ **Contrast Enhancement** | Histogram equalization & piece-wise linear transformation | Improving dynamic range and feature visibility |
+| 📐 **Edge Detection** | 1st & 2nd spatial derivatives (Sobel, Prewitt, Laplacian operators) | Boundary identification & step edge profiles |
+| 🔍 **Spatial Filtering** | 2D convolution kernels with Gaussian smoothing | Noise suppression and high-frequency edge isolation |
+
+</div>
+
+<br>
+
+---
+
+## Professional Experience
+
+### 🏢 **Industrial Trainee — IT Unit (Hardware & Infrastructure)**
+
+**Lembaga Air Perak (Perak Water Board)**<br>
+📅 March 2026 – July 2026 · 📍 Ipoh, Malaysia · ⏱️ 14 weeks
+
+| Operational Domain | Execution & Real-World Impact |
+| --- | --- |
+| 🖥️ **Workstation Deployment** | Successfully migrated **23 enterprise machines** across 2 branch offices with **zero data loss** |
+| 🔧 **Network & Protocol Diagnostics** | Diagnosed and remediated RPC, SMB1, and PrintNightmare faults across Windows 7/10/11 |
+| 📢 **PA & Audio System Maintenance** | Managed public address (PA) system audio hardware and conference room infrastructure |
+| 📝 **Technical Documentation** | Authored **6 technical manuals** permanently adopted into departmental standard operating procedures |
+| 📊 **Enterprise Asset Auditing** | Conducted comprehensive hardware audits across **8 departments** spanning multiple facilities |
+| 📧 **Mail Server Reconciliation** | Audited **578 enterprise accounts**, detecting and resolving **26 credential/directory discrepancies** |
+| 🐛 **Production Web App Debugging** | Resolved critical WebSocket/STOMP authentication failures in operational water board systems |
+
+> 💡 **Key Takeaway:** Proven track record in executing enterprise IT infrastructure deployments while upholding strict data integrity and engineering documentation standards.
+
+<br>
+
+---
+
+## Education & Academic Honors
+
+<div align="center">
+
+### Bachelor of Computer Science (Hons)
+
+**Universiti Teknologi MARA (UiTM)** — College of Computing, Informatics & Mathematics<br>
+📅 Expected Graduation: **Mid-2027** · 📈 Current CGPA: **3.50**
+
+#### 🏅 Dean's List Recognitions
+
+| Academic Term | GPA | Honor Level |
+| :---: | :---: | :---: |
+| Sem 4 2024/25 | **3.55** | 🎖️ Dean's List Award |
+| Sem 5 2024/25 | **3.50** | 🎖️ Dean's List Award |
+| Sem 6 2025/26 | **3.87** | ⭐ **Top Performer Award** |
+
+#### 📜 Prior Academic Qualification
+
+**Diploma in Computer Science** · Universiti Teknologi MARA (UiTM) · 2021–2024 · CGPA: **3.13**
+
+</div>
+
+<br>
+
+---
+
+## Categorized Technology Arsenal
 
 <div align="center">
 
@@ -142,7 +249,7 @@ currently_learning:
 
 <br>
 
-## <img src="https://media.giphy.com/media/Z6QUCFGNU1fNxqR5a0/giphy.gif" width="30"> GitHub Profile Trophy
+## GitHub Profile Trophy
 
 <div align="center">
 
@@ -161,7 +268,7 @@ currently_learning:
 
 <a id="security-research-workflows"></a>
 
-## <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="30"> Security Research & Auditing Workflows
+## Security Research & Auditing Workflows
 
 <div align="center">
 
@@ -178,7 +285,7 @@ currently_learning:
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Dynamic Metrics & Analytics
+## Dynamic Metrics & Analytics
 
 <div align="center">
 
@@ -189,7 +296,6 @@ currently_learning:
 <br><br>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qieyl345&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qieyl345&theme=tokyonight" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qieyl345&theme=tokyonight&utcOffset=8" />
 
 <br><br>
@@ -206,95 +312,7 @@ currently_learning:
 
 ---
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> Featured Projects & Research
-
-### 1. 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
-
-> A production-ready **C2C e-commerce platform** for academic resource trading between UiTM students, featuring real-time database synchronization and interactive analytics dashboards.
-
-<br>
-
-| Aspect | Engineering Specifications |
-| --- | --- |
-| 🏗️ **Architecture** | Client-side MVC pattern with 3 distinct RBAC roles (Student, Staff, Admin) |
-| 🛠️ **Tech Stack** | HTML5 · CSS3 · Vanilla JavaScript · Firebase Realtime DB · Firebase Auth |
-| 📊 **Analytics Dashboard** | 8 interactive Chart.js visualizations for transaction trends and user metrics |
-| 💡 **Key Features** | Real-time price negotiation · 7-day buyer warranty · Instant multi-client sync |
-| ✅ **Quality Metrics** | **100%** pass rate across 22 comprehensive test suites · **95%** SUS score |
-| 🔗 **Repository** | [View on GitHub](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
-| 👁️ **Live Status** | [![Demo Status](https://img.shields.io/badge/Demo-N/A-dark?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
-
-<br>
-
-### 2. 🖼️ **Digital Image Processing & Mathematical Computing**
-
-> Computational algorithms exploring **spatial filtering, contrast manipulation**, and **derivative edge detection** across digital matrices.
-
-<div align="center">
-
-| Technique | Mathematical & Algorithmic Implementation | Practical Application |
-| --- | --- | --- |
-| 🎚️ **Contrast Enhancement** | Histogram equalization & piece-wise linear transformation | Improving dynamic range and feature visibility |
-| 📐 **Edge Detection** | 1st & 2nd spatial derivatives (Sobel, Prewitt, Laplacian operators) | Boundary identification & step edge profiles |
-| 🔍 **Spatial Filtering** | 2D convolution kernels with Gaussian smoothing | Noise suppression and high-frequency edge isolation |
-
-</div>
-
-<br>
-
----
-
-## <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="30"> Professional Experience
-
-### 🏢 **Industrial Trainee — IT Unit (Hardware & Infrastructure)**
-
-**Lembaga Air Perak (Perak Water Board)**  
-📅 March 2026 – July 2026 · 📍 Ipoh, Malaysia · ⏱️ 14 weeks
-
-| Operational Domain | Execution & Real-World Impact |
-| --- | --- |
-| 🖥️ **Workstation Deployment** | Successfully migrated **23 enterprise machines** across 2 branch offices with **zero data loss** |
-| 🔧 **Network & Protocol Diagnostics** | Diagnosed and remediated RPC, SMB1, and PrintNightmare faults across Windows 7/10/11 |
-| 📢 **PA & Audio System Maintenance** | Managed public address (PA) system audio hardware and conference room infrastructure |
-| 📝 **Technical Documentation** | Authored **6 technical manuals** permanently adopted into departmental standard operating procedures |
-| 📊 **Enterprise Asset Auditing** | Conducted comprehensive hardware audits across **8 departments** spanning multiple facilities |
-| 📧 **Mail Server Reconciliation** | Audited **578 enterprise accounts**, detecting and resolving **26 credential/directory discrepancies** |
-| 🐛 **Production Web App Debugging** | Resolved critical WebSocket/STOMP authentication failures in operational water board systems |
-
-> 💡 **Key Takeaway:** Proven track record in executing enterprise IT infrastructure deployments while upholding strict data integrity and engineering documentation standards.
-
-<br>
-
----
-
-## <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> Education & Academic Honors
-
-<div align="center">
-
-### Bachelor of Computer Science (Hons)
-
-**Universiti Teknologi MARA (UiTM)** — College of Computing, Informatics & Mathematics  
-📅 Expected Graduation: **Mid-2027** · 📈 Current CGPA: **3.50**
-
-#### 🏅 Dean's List Recognitions
-
-| Academic Term | GPA | Honor Level |
-| :---: | :---: | :---: |
-| Sem 4 2024/25 | **3.55** | 🎖️ Dean's List Award |
-| Sem 5 2024/25 | **3.50** | 🎖️ Dean's List Award |
-| Sem 6 2025/26 | **3.87** | ⭐ **Top Performer Award** |
-
-#### 📜 Prior Academic Qualification
-
-**Diploma in Computer Science** · Universiti Teknologi MARA (UiTM) · 2021–2024 · CGPA: **3.13**
-
-</div>
-
-<br>
-
----
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -318,7 +336,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 <a id="roadmap-2027"></a>
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> 2027 Engineering Roadmap
+## 2027 Engineering Roadmap
 
 <div align="center">
 
@@ -340,7 +358,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 ---
 
-## <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="30"> Quick Stats
+## Quick Stats
 
 <div align="center">
 
@@ -357,7 +375,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> Recent Activity
+## Recent Activity
 
 <div align="center">
 
@@ -382,7 +400,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 <a id="lets-connect"></a>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Let's Connect
+## Let's Connect
 
 <div align="center">
 
