@@ -326,7 +326,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 <br>
 
-🎯 **Target Milestone:** Deliver 3+ production-grade web applications with automated CI/CD security scanning before Mid-2027 graduation.
+🎯 **Target Milestone:** Deliver 3+ production-grade web applications with automated CI/CD security scanning before 2027 graduation.
 
 </div>
 
