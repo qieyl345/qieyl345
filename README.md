@@ -211,7 +211,7 @@ currently_learning:
 <br><br>
 
 <!-- GitHub Metrics (auto-generated daily by metrics.yml workflow) -->
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="98%" />
+<img src="./metrics.svg" alt="GitHub Metrics" width="98%" />
 
 </div>
 
@@ -378,9 +378,9 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 <!-- Snake Contribution Animation (auto-generated daily by snake.yml workflow) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake.svg" />
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake.svg" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake-white.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake.svg" width="98%" />
 </picture>
 
 <br><br>

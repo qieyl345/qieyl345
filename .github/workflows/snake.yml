@@ -6,19 +6,30 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
       - uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: qieyl345
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - name: Commit generated files
+          repository_name: ${{ github.repository }}
+          svg_width: 1200
+          svg_height: 300
+          output: |
+            snake.svg
+            github-snake-dark.svg?palette=github-dark
+            github-snake-white.svg?palette=github-light
+      - name: Commit files
+        if: hashFiles('*.svg') != ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-snake.svg github-snake-dark.svg
-          git commit -m "chore: update snake contribution animation" || echo "No changes to commit"
-          git push
+          git diff --quiet && git diff --staged && git diff --exit-code || exit 0
+          git add snake.svg github-snake-dark.svg github-snake-white.svg || true
+          git commit -m "$(date +'%Y-%m-%d') update snake animation" || echo "No new changes to commit"
+          git push origin main
