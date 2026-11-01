@@ -8,7 +8,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Building+scalable+web+solutions;Real-time+data+visualization+%26+analytics;IT+infrastructure+%26+enterprise+operations;Application+security+%26+code+auditing;Always+learning%2C+always+shipping)](https://github.com/qieyl345)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=680&height=160&lines=Building+scalable+web+solutions;Real-time+data+visualization+%26+analytics;IT+infrastructure+%26+enterprise+operations;Application+security+%26+code+auditing;Always+learning%2C+always+shipping)](https://github.com/qieyl345)
 
 <br>
 
