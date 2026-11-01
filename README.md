@@ -58,7 +58,7 @@ timezone: UTC+8
 education:
   degree: Bachelor of Computer Science (Hons)
   institution: Universiti Teknologi MARA (UiTM)
-  expected_graduation: Mid-2027
+  expected_graduation: April-2027
   current_cgpa: 3.50
   achievements:
     - "Dean's List Sem 4 2024/25 — GPA 3.55"
@@ -171,7 +171,7 @@ currently_learning:
 ### Bachelor of Computer Science (Hons)
 
 **Universiti Teknologi MARA (UiTM)** — College of Computing, Informatics & Mathematics<br>
-📅 Expected Graduation: **Mid-2027** · 📈 Current CGPA: **3.50**
+📅 Expected Graduation: **April 2027** · 📈 Current CGPA: **3.50**
 
 #### 🏅 Dean's List Recognitions
 
@@ -350,7 +350,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 - [ ] **Technical Writing** — Publish 3+ technical breakdowns on application security and full-stack performance
 - [ ] **Industry Certification** — Complete AWS Solutions Architect or security practitioner certification
 
-**Timeline:** Complete all objectives prior to **Mid-2027 graduation** ✨
+**Timeline:** Complete all objectives prior to **April-2027 graduation** ✨
 
 </div>
 
