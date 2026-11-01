@@ -47,7 +47,7 @@
 
 ---
 
-## About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> About Me
 
 ```yaml
 name: Aqil Imran Bin Norhidzam
@@ -103,7 +103,7 @@ currently_learning:
 
 ---
 
-## Featured Projects & Research
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" alt=""> Featured Projects & Research
 
 ### 1. 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
 
@@ -141,7 +141,7 @@ currently_learning:
 
 ---
 
-## Professional Experience
+## <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="30" alt=""> Professional Experience
 
 ### 🏢 **Industrial Trainee — IT Unit (Hardware & Infrastructure)**
 
@@ -191,7 +191,7 @@ currently_learning:
 
 ---
 
-## Categorized Technology Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt=""> Categorized Technology Arsenal
 
 <div align="center">
 
@@ -400,7 +400,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 <a id="lets-connect"></a>
 
-## Let's Connect
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt=""> Let's Connect
 
 <div align="center">
 
