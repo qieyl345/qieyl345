@@ -183,10 +183,7 @@ currently_learning:
 <div align="center">
 
 <a href="https://github.com/qieyl345">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qieyl345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=70a5fd&icon_color=bf91f3&title_color=70a5fd" />
-</a>
-<a href="https://github.com/qieyl345">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=qieyl345&theme=tokyonight&hide_border=true&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
+  <img width="80%" src="https://streak-stats.demolab.com/?user=qieyl345&theme=tokyonight&hide_border=true&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
 </a>
 
 <br><br>
@@ -366,9 +363,9 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 <!-- Snake Contribution Animation (auto-generated daily by snake.yml workflow) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake-white.svg" />
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/qieyl345/qieyl345/main/github-snake.svg" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/qieyl345/qieyl345/output/github-snake.svg" width="98%" />
 </picture>
 
 <br><br>
