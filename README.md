@@ -146,14 +146,14 @@ currently_learning:
 
 <div align="center">
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=qieyl345&theme=tokyonight&column=-1&margin_h=10&row=1&score_verbose=true)
+![Profile Trophy](https://trophy.ryglcloud.net/?username=qieyl345&theme=tokyonight&column=-1&margin-w=10&row=1&score_verbose=true)
 
 </div>
 
 <div align="center">
 
 <!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qieyl345&theme=tokyonight&hide_border=true&layout=compact&title_color=70a5fd&text_color=bf91f3&langs_count=8&hide_title=true" alt="Top Languages" width="600px" height="auto" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qieyl345&theme=tokyonight" alt="Top Languages by Commit" width="340" height="200" />
 
 </div>
 
@@ -199,19 +199,7 @@ currently_learning:
 
 <div align="center">
 
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/qieyl345?qieyl345&restrict_search_access=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qieyl345&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" width="98%" />
-</a>
-
-<br><br>
-
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qieyl345&theme=tokyonight" />
-
-<br><br>
-
-<!-- GitHub Metrics (auto-generated daily by metrics.yml workflow) -->
-<img src="./metrics.svg" alt="GitHub Metrics" width="98%" />
 
 </div>
 
@@ -387,7 +375,7 @@ Expanding capabilities in modern full-stack development, cloud pipelines, and ap
 
 **Latest Contributions:**
 
-[![Query My Repos](https://img.shields.io/badge/Query_Repositories-Search_GitHub-lightgrey?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345?qieyl345&restrict_search_access=true)
+[![Query My Repos](https://img.shields.io/badge/Query_Repositories-Search_GitHub-lightgrey?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345?tab=repositories)
 
 </div>
 
