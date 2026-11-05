@@ -290,7 +290,7 @@ currently_learning:
 <div align="center">
 
 <a href="https://github.com/qieyl345">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=qieyl345&theme=tokyonight&hide_border=true&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
+  <img width="80%" src="./profile/streak.svg" alt="GitHub contribution streak statistics" />
 </a>
 
 <br><br>
