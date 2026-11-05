@@ -70,13 +70,8 @@ professional_narrative:
   security_research: "OWASP Top 10 auditing, SAST scanning (Semgrep, CodeQL, TruffleHog), mobile vulnerability frameworks"
   core_engineering: "Full stack architectures, real-time sync, digital image processing & mathematical computing"
 
-currently_building: "Web-based Book E-Marketplace with real-time analytics dashboards"
-open_to: "Full Stack • IT Infrastructure • Security Engineering (On-site / Hybrid in MY)"
+open_to: "Full Stack • IT Support Technical and Infrastructure •"
 
-currently_learning:
-  - "React 18.x patterns & effects"
-  - "AWS cloud architecture & deployment"
-  - "Docker containerization"
 ```
 
 <div align="center">
