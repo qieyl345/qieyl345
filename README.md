@@ -89,6 +89,7 @@ open_to: "Full Stack • IT Support Technical and Infrastructure •"
 <div align="center">
 
 [![book-e-marketplace](https://img.shields.io/badge/Book_E-Marketplace-F3B929?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm)
+[![mycost-tracker](https://img.shields.io/badge/MyCost-Tracker-70A5FD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/qieyl345/MyCost-Tracker)
 [![ongoing-exploration](https://img.shields.io/badge/Exploring-AWS_Cloud-A340F4?style=for-the-badge&logo=amazon-aws&logoColor=white)](#roadmap-2027)
 [![security-reading](https://img.shields.io/badge/Reading-OWASP_Top_10/2021-000000?style=for-the-badge&logo=owasp&logoColor=white)](#security-research-workflows)
 
@@ -100,7 +101,26 @@ open_to: "Full Stack • IT Support Technical and Infrastructure •"
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" alt=""> Featured Projects & Research
 
-### 1. 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
+### 1. 📊 **MyCost Tracker** — Malaysian Cost-of-Living Dashboard
+
+> A student-focused Next.js dashboard that visualizes official Malaysian CPI and fuel-price data, with state comparisons, CSV export, and a locally saved budget planner.
+
+<br>
+
+| Aspect | Engineering Specifications |
+| --- | --- |
+| 🏗️ **Architecture** | Next.js App Router with typed, validated official-data access |
+| 🛠️ **Tech Stack** | TypeScript · Next.js · React · CSS · Jupyter/Pandas |
+| 📊 **Data & Visualization** | National CPI trends, state comparisons, and weekly fuel-price charts |
+| 💡 **Key Features** | Searchable data explorer · CSV export · Editable browser-saved budget · Light/dark themes |
+| 🛡️ **Reliability** | One-hour caching, retry handling, request rate limiting, and stale-response fallback |
+| 📚 **Data Sources** | Official OpenDOSM/data.gov.my CPI and fuel-price datasets |
+| 🔗 **Repository** | [View on GitHub](https://github.com/qieyl345/MyCost-Tracker) |
+| 👁️ **Live Status** | [![Demo Status](https://img.shields.io/badge/Demo-Not%20Deployed-yellow?style=flat-square&logo=vercel&logoColor=white)](https://github.com/qieyl345/MyCost-Tracker) |
+
+<br>
+
+### 2. 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
 
 > A production-ready **C2C e-commerce platform** for academic resource trading between UiTM students, featuring real-time database synchronization and interactive analytics dashboards.
 
@@ -118,7 +138,7 @@ open_to: "Full Stack • IT Support Technical and Infrastructure •"
 
 <br>
 
-### 2. 🖼️ **Digital Image Processing & Mathematical Computing**
+### 3. 🖼️ **Digital Image Processing & Mathematical Computing**
 
 > Computational algorithms exploring **spatial filtering, contrast manipulation**, and **derivative edge detection** across digital matrices.
 
@@ -195,6 +215,8 @@ open_to: "Full Stack • IT Support Technical and Infrastructure •"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
