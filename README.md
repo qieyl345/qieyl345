@@ -88,8 +88,9 @@ open_to: "Full Stack • IT Support Technical and Infrastructure •"
 
 <div align="center">
 
-[![book-e-marketplace](https://img.shields.io/badge/Book_E-Marketplace-F3B929?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm)
 [![mycost-tracker](https://img.shields.io/badge/MyCost-Tracker-70A5FD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/qieyl345/MyCost-Tracker)
+[![aethergrid-logistics-os](https://img.shields.io/badge/AetherGrid-Logistics_OS-00A98F?style=for-the-badge&logo=googleearth&logoColor=white)](https://github.com/qieyl345/aethergrid-logistics-os)
+[![book-e-marketplace](https://img.shields.io/badge/Book_E-Marketplace-F3B929?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm)
 [![ongoing-exploration](https://img.shields.io/badge/Exploring-AWS_Cloud-A340F4?style=for-the-badge&logo=amazon-aws&logoColor=white)](#roadmap-2027)
 [![security-reading](https://img.shields.io/badge/Reading-OWASP_Top_10/2021-000000?style=for-the-badge&logo=owasp&logoColor=white)](#security-research-workflows)
 
@@ -120,7 +121,24 @@ open_to: "Full Stack • IT Support Technical and Infrastructure •"
 
 <br>
 
-### 2. 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
+### 2. 🌐 **AetherGrid Logistics OS** — Supply-Chain Operations Dashboard
+
+> An interactive logistics operations dashboard for exploring shipment workflows, route utilization, warehouse activity, and risk scenarios. Operational records are simulated demo data; the weather panel uses live Open-Meteo model data.
+
+<br>
+
+| Aspect | Engineering Specifications |
+| --- | --- |
+| 🏗️ **Architecture** | Standalone browser-based dashboard with no backend or build step |
+| 🛠️ **Tech Stack** | HTML · CSS · JavaScript |
+| 📊 **Dashboard Modules** | Command center · Global routes · Warehouse twin · Risk intelligence · Shipment manifest |
+| 💡 **Key Features** | Search, filtering, CSV export, quick navigation, and live weather context for ten hubs |
+| ⚠️ **Data Scope** | Logistics, shipment, warehouse, risk, and financial metrics are illustrative simulations |
+| 🔗 **Repository** | [View on GitHub](https://github.com/qieyl345/aethergrid-logistics-os) |
+
+<br>
+
+### 3. 📚 **Book E-Marketplace** — Bachelor's Final Year Project (FYP)
 
 > A production-ready **C2C e-commerce platform** for academic resource trading between UiTM students, featuring real-time database synchronization and interactive analytics dashboards.
 
@@ -137,20 +155,6 @@ open_to: "Full Stack • IT Support Technical and Infrastructure •"
 | 👁️ **Live Status** | [![Demo Status](https://img.shields.io/badge/Demo-N/A-dark?style=flat-square&logo=github&logoColor=white)](https://github.com/qieyl345/Web-Based_Book_E-Marketplace_with_Data_Visualization_for_Uitm) |
 
 <br>
-
-### 3. 🖼️ **Digital Image Processing & Mathematical Computing**
-
-> Computational algorithms exploring **spatial filtering, contrast manipulation**, and **derivative edge detection** across digital matrices.
-
-<div align="center">
-
-| Technique | Mathematical & Algorithmic Implementation | Practical Application |
-| --- | --- | --- |
-| 🎚️ **Contrast Enhancement** | Histogram equalization & piece-wise linear transformation | Improving dynamic range and feature visibility |
-| 📐 **Edge Detection** | 1st & 2nd spatial derivatives (Sobel, Prewitt, Laplacian operators) | Boundary identification & step edge profiles |
-| 🔍 **Spatial Filtering** | 2D convolution kernels with Gaussian smoothing | Noise suppression and high-frequency edge isolation |
-
-</div>
 
 <br>
 
